@@ -1,0 +1,80 @@
+// Asciidoctor Source
+// LAM-001
+// Gerardo Galindez <gerardo.galindez@gmail.com>
+//
+// Last updated: 2018/01/03
+// Notes:
+//   Compile with: $ asciidoctor README.adoc
+
+= Lámpara de pared rústica
+[LAM-001]
+:toc:
+:imagesdir: assets/images
+:homepage: https://diario-del-taller.tumblr.com/
+:showtitle:
+v1.0, 2019-01-03
+
+= Descripción
+
+Lámpara rústica de pared. Base de madera que se sujeta con dos taquetes a la
+pared, un par de tornillos, un poste para separar un cable oculto por cuerda de
+henequén. Entrelazado en la cuerda de henequen va oculto el cable, sujeto por
+una abrazadera. El tope de la cuerda se sujeta con pegamento epóxico a un
+socket.
+
+Cualquier foco funciona, pero la mejor opción es un foco de LED que simule
+filamentos, para el toque vintage. Podría conectarse a una clavija para usarse
+de adorno, aunque la intención es anclarla a la pared, donde sea que haya
+corriente eléctrica y un apagador.
+
+= Tiempo
+
+. Cortes para la base
+. Corte del poste
+. Perforaciones
+. Preparación del material
+. Ensamble
+. Acabado
+
+= Materiales
+
+. Madera para la base
+. Madera para el poste
+. Socket
+. LED Vintage
+. Abrazadera
+. Cuerda de Henequen
+. Cable 18 AWG
+
+= Insumos
+
+. Taquete 1/4
+. Tornillos
+. Pegamento
+. Clavos
+. Lijas
+. Acabado
+
+= Herramienta
+
+. Sierras
+.. Sierra de mesa
+.. Ingletadora
+. Lijadoras
+.. Lijadora de mano
+.. Lijadora orbital
+.. Tornillería para lija de tambor
+. Brocas
+.. Plana o de corona
+.. Avellanador
+.. Helicoidal (para piloto)
+.. Concreto
+. Herramienta de mano
+.. Cutter
+.. Desarmador y dado
+.. Martillo
+.. Metro
+
+= Instrucciones
+
+= URLs
